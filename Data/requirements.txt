@@ -1,0 +1,15 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+keras
+rdkit
+ase
+dgl
+joblib
+h5py
+mysql-connector-python
+tk
