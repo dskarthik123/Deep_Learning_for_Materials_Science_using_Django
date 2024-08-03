@@ -13,7 +13,7 @@ def load_data(file_path):
 def main():
     # Define file paths
     data_file_path = 'D:/#Python Programs/Final Project/Data/processed_data_with_new_features.csv'
-    model_file_path = 'best_random_forest_model.pkl'
+    model_file_path = 'D:/#Python Programs/Final Project/best_random_forest_model.pkl'
 
     # Load data
     data = load_data(data_file_path)
